@@ -1,0 +1,346 @@
+{
+    "name": "Elegant Evening Dress",
+    "category": "Dresses",
+    "material": "Satin",
+    "features": ["Elegant", "Formal", "Soft Fabric"],
+    "color": [ "Black"],
+    "size": ["S", "M", "L"],
+    "price": 89.99,
+    "description": "A stunning satin evening dress perfect for formal occasions, with a flattering fit.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress6.jpg"
+},
+{
+    "name": "Summer Floral Dress",
+    "category": "Dresses",
+    "material": "Cotton",
+    "features": ["Lightweight", "Breathable", "Casual"],
+    "color": ["Pink"],
+    "size": ["S", "M", "L"],
+    "price": 49.99,
+    "description": "A refreshing floral cotton dress for a comfortable summer look.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress15.jpg"
+},
+{
+    "name": "Maxi Dress",
+    "category": "Dresses",
+    "material": "Chiffon",
+    "features": ["Flowy", "Lightweight", "Elegant"],
+    "color": ["Black"],
+    "size": ["S", "M", "L"],
+    "price": 129.99,
+    "description": "A luxurious chiffon maxi dress that is perfect for evening events.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress13.jpg"
+},
+{
+    "name": "Purple Boho Dress",
+    "category": "Dresses",
+    "material": "Cotton, Silk",
+    "features": ["Open Shoulder", "Feather Sleeves", "Boho Chic"],
+    "color": ["Purple"],
+    "size": ["S", "M", "L"],
+    "price": 69.99,
+    "description": "Elegant and romantic dress in a soft purple shade, with an open shoulder design and feathered sleeves, perfect for a chic boho look.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress4.jpg"
+  }
+  
+  {
+    "name": "Burgundy Classic Dress",
+    "category": "Dresses",
+    "subcategory": "Classic",
+    "material": "Wool, Polyester",
+    "features": ["Short Sleeves", "Classic Fit", "Timeless Design"],
+    "color": ["Burgundy"],
+    "size": ["S", "M", "L"],
+    "price": 79.99,
+    "description": "A timeless burgundy dress with short sleeves, perfect for any formal occasion. The classic fit and high-quality fabric ensure comfort and elegance.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress11.jpg"
+  }
+  {
+    "name": "Beige Mini Dress",
+    "category": "Dresses",
+    "material": "Cotton, Spandex",
+    "features": ["Short Length", "Fitted", "Elegant"],
+    "color": ["Beige"],
+    "size": ["S", "M", "L"],
+    "price": 49.99,
+    "description": "A chic and elegant beige mini dress, perfect for summer evenings and casual outings. Its fitted design and soft cotton-spandex blend ensure both comfort and a flattering silhouette.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress3.jpg"
+  }
+  {
+    "name": "Long Organza Dress with Bow",
+    "category": "Dresses",
+    "material": "Organza, Silk",
+    "features": ["Long Length", "Bow Detail", "Elegant", "Flowy"],
+    "color": ["Soft Pink", "Ivory", "Lavender"],
+    "size": ["S", "M", "L"],
+    "price": 129.99,
+    "description": "An elegant long dress made from luxurious organza fabric, featuring a delicate bow detail at the back. Its airy, flowy silhouette makes it perfect for formal events, evening galas, or a romantic night out.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress8.jpg"
+  }
+  {
+    "name": "Shiny Black Dress with Deep V-neck",
+    "category": "Dresses",
+    "material": "Satin, Sequin",
+    "features": ["Shiny", "V-neck", "Sleeveless", "Form-Fitting"],
+    "color": ["Black"],
+    "size": ["S", "M", "L"],
+    "price": 149.99,
+    "description": "A stunning shiny black dress with a deep V-neck, designed to turn heads. The sequined fabric adds a glamorous touch, making it the perfect choice for evening events, cocktail parties, or special occasions.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress7.jpg"
+  }
+  {
+    "name": "Black Long Sleeve Dress with Feathered Hem",
+    "category": "Dresses",
+    "material": "Velvet, Feathers",
+    "features": ["Long Sleeve", "Feathered Hem", "Form-Fitting", "Elegant"],
+    "color": ["Black"],
+    "size": ["S", "M", "L"],
+    "price": 179.99,
+    "description": "A sophisticated black velvet dress with long sleeves and a luxurious feathered hem. This elegant design adds a unique twist to a classic look, making it ideal for formal events or a night out.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress5.jpg"
+  }
+  {
+    "name": "Silver Sparkling Mini Dress",
+    "category": "Dresses",
+    "material": "Sequins, Polyester",
+    "features": ["Mini Length", "Sparkling", "Form-Fitting", "V-Neck"],
+    "color": ["Silver"],
+    "size": ["S", "M", "L"],
+    "price": 129.99,
+    "description": "A glamorous silver mini dress with a shimmering sequin design, perfect for evening parties or special occasions. The form-fitting cut and V-neckline add to the sleek, eye-catching style.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress9.jpg"
+  }
+  {
+    "name": "Silk Mini Dress in Ash Brown",
+    "category": "Dresses",
+    "material": "Silk",
+    "features": ["Mini Length", "Flowy", "Elegant", "V-Neck"],
+    "color": ["Ash Brown"],
+    "size": ["S", "M", "L"],
+    "price": 98.99,
+    "description": "A luxurious ash brown silk mini dress with a soft, flowy fit that drapes elegantly over the body. The V-neckline and delicate material make it perfect for a chic and casual day out or evening event.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress12.jpg"
+  }
+  {
+    "name": "Black Corset Dress with Front Train",
+    "category": "Dresses",
+    "material": "Satin",
+    "features": ["Corset", "Front Train", "Fitted", "Elegant", "V-Neck"],
+    "color": ["Black"],
+    "size": ["S", "M", "L"],
+    "price": 189.99,
+    "description": "An elegant black satin corset dress with a front train that adds a dramatic flair. The fitted corset-style bodice accentuates the waist, while the train at the front creates a stunning, glamorous effect. Perfect for formal evening events.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress14.jpg"
+  }
+  {
+    "name": "Black Dress with Belt",
+    "category": "Dresses",
+    "material": "Cotton Blend",
+    "features": ["Belted", "A-Line", "Short Sleeves", "Versatile", "Comfortable"],
+    "color": ["Black"],
+    "size": ["S", "M", "L"],
+    "price": 49.99,
+    "description": "A simple yet stylish black dress with a belted waist, offering a flattering A-line fit. Made from a soft cotton blend, it's perfect for casual outings or day-to-day wear. Its versatility allows it to be dressed up or down with ease.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress10.jpg"
+  }
+  
+  {
+    "name": "Black Sparkling Evening Dress",
+    "category": "Dresses",
+    "subcategory": "Evening",
+    "material": "Sequin Fabric",
+    "features": ["Sparkling", "V-Neck", "Sleeveless", "Slim Fit", "Floor-Length"],
+    "color": ["Black"],
+    "size": ["S", "M", "L"],
+    "price": 129.99,
+    "description": "This stunning black evening dress is adorned with sparkling sequins, creating a dazzling effect perfect for special events. Featuring a flattering V-neckline and a sleek, slim-fit silhouette, this floor-length dress exudes elegance and glamour for a night out.",
+    "image_url": "https://eldana.sirv.com/Shared/dress-from-ilin88/dress1.jpg"
+  }
+  
+
+
+
+
+
+  [
+    {
+        "name": "Pink Loose Jeans",
+        "category": "Bottoms",
+        "subcategory": "Jeans",
+        "material": "Cotton",
+        "features": ["Loose Fit", "High Waist", "Relaxed", "Straight Leg"],
+        "color": ["Pink"],
+        "size": ["S", "M", "L"],
+        "price": 39.99,
+        "description": "Comfortable and stylish pink loose jeans made from soft cotton fabric. Perfect for casual outings and weekend wear.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/jeans1.jpeg"
+    },
+    {
+        "name": "Black Flared Jeans",
+        "category": "Bottoms",
+        "subcategory": "Jeans",
+        "material": "Cotton",
+        "features": ["Flared", "High Waist", "Vintage Style", "Wide Leg"],
+        "color": ["Black"],
+        "size": ["S", "M", "L"],
+        "price": 49.99,
+        "description": "Classic black flared jeans with a flattering high waist. Perfect for adding a retro touch to your outfit.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/jeans2.jpeg"
+    },
+    {
+        "name": "Black Short Jeans with Pockets",
+        "category": "Bottoms",
+        "subcategory": "Jeans",
+        "material": "Cotton",
+        "features": ["Short", "High Waist", "Pocket Details"],
+        "color": ["Black"],
+        "size": ["S", "M", "L"],
+        "price": 29.99,
+        "description": "Black short jeans with practical pockets, perfect for casual summer outings.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/jeans3.jpeg"
+    },
+    {
+        "name": "Blue Classic Jeans",
+        "category": "Bottoms",
+        "subcategory": "Jeans",
+        "material": "Cotton",
+        "features": ["Classic Fit", "Straight Leg", "Mid Waist"],
+        "color": ["Blue"],
+        "size": ["S", "M", "L"],
+        "price": 44.99,
+        "description": "Timeless blue jeans with a classic cut. Ideal for everyday wear, combining comfort and style.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/jeans4.jpeg"
+    },
+    {
+        "name": "Burgundy Loose Jeans",
+        "category": "Bottoms",
+        "subcategory": "Jeans",
+        "material": "Cotton",
+        "features": ["Loose Fit", "High Waist", "Relaxed", "Straight Leg"],
+        "color": ["Burgundy"],
+        "size": ["S", "M", "L"],
+        "price": 49.99,
+        "description": "Stylish burgundy loose jeans, perfect for creating a laid-back yet fashionable look.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/jeans5.jpeg"
+    },
+    {
+        "name": "Classic Trousers",
+        "category": "Bottoms",
+        "subcategory": "Trousers",
+        "material": "Wool Blend",
+        "features": ["Classic Fit", "Straight Leg", "Tailored", "Mid Waist"],
+        "color": ["Black", "Navy", "Gray"],
+        "size": ["S", "M", "L"],
+        "price": 59.99,
+        "description": "These classic tailored trousers are made with a wool blend fabric for a sophisticated and comfortable fit.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/pants1.jpeg"
+    },
+    {
+        "name": "Orange Satin Trousers",
+        "category": "Bottoms",
+        "subcategory": "Trousers",
+        "material": "Satin",
+        "features": ["High Waist", "Wide Leg", "Shiny Finish"],
+        "color": ["Orange"],
+        "size": ["S", "M", "L"],
+        "price": 79.99,
+        "description": "Elegant satin trousers in a vibrant orange color, perfect for evening wear or festive events.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/pants2.jpeg"
+    },
+    {
+        "name": "Grey Classic Loose Trousers",
+        "category": "Bottoms",
+        "subcategory": "Trousers",
+        "material": "Cotton Blend",
+        "features": ["Loose Fit", "Mid Waist", "Relaxed Style"],
+        "color": ["Grey"],
+        "size": ["S", "M", "L"],
+        "price": 54.99,
+        "description": "These grey loose trousers combine comfort with a classic look, ideal for both casual and smart-casual outfits.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/pants3.jpeg"
+    },
+    {
+        "name": "Dark Blue Classic Trousers",
+        "category": "Bottoms",
+        "subcategory": "Trousers",
+        "material": "Cotton",
+        "features": ["Straight Leg", "Mid Waist", "Classic Fit"],
+        "color": ["Dark Blue"],
+        "size": ["S", "M", "L"],
+        "price": 59.99,
+        "description": "Dark blue trousers with a clean, classic fit. A versatile option for both office wear and casual days.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/pants4.jpeg"
+    },
+    {
+        "name": "Bright Blue Classic Trousers",
+        "category": "Bottoms",
+        "subcategory": "Trousers",
+        "material": "Cotton",
+        "features": ["Straight Leg", "Mid Waist", "Bright Blue Color"],
+        "color": ["Bright Blue"],
+        "size": ["S", "M", "L"],
+        "price": 59.99,
+        "description": "Bright blue trousers with a classic fit, perfect for adding a pop of color to your wardrobe.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/pants5.jpeg"
+    },
+    {
+        "name": "Grey Mini Skirt with Bows",
+        "category": "Bottoms",
+        "subcategory": "Skirt",
+        "material": "Cotton",
+        "features": ["Mini Length", "High Waist", "Bow Details"],
+        "color": ["Grey"],
+        "size": ["S", "M", "L"],
+        "price": 29.99,
+        "description": "A cute grey mini skirt with charming bow details. Ideal for casual, day-to-day wear.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/skirt1.jpeg"
+    },
+    {
+        "name": "Dark Blue Classic Mini Skirt",
+        "category": "Bottoms",
+        "subcategory": "Skirt",
+        "material": "Cotton",
+        "features": ["Mini Length", "Classic Style", "High Waist"],
+        "color": ["Dark Blue"],
+        "size": ["S", "M", "L"],
+        "price": 34.99,
+        "description": "A timeless dark blue classic mini skirt, perfect for everyday wear or dressing up for an evening out.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/skirt2.jpeg"
+    },
+    {
+        "name": "Black Classic Midi Skirt",
+        "category": "Bottoms",
+        "subcategory": "Skirt",
+        "material": "Cotton",
+        "features": ["Midi Length", "Classic Fit", "High Waist"],
+        "color": ["Black"],
+        "size": ["S", "M", "L"],
+        "price": 39.99,
+        "description": "A versatile black midi skirt with a classic cut. Perfect for both work and casual wear.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/skirt3.jpeg"
+    },
+    {
+        "name": "Dark Green Classic Skirt with Pocket",
+        "category": "Bottoms",
+        "subcategory": "Skirt",
+        "material": "Cotton",
+        "features": ["Classic Fit", "Mid Length", "Front Pocket"],
+        "color": ["Dark Green"],
+        "size": ["S", "M", "L"],
+        "price": 34.99,
+        "description": "Dark green skirt with a classic cut and practical pocket detail. Ideal for smart-casual wear.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/skirt4.jpeg"
+    },
+    {
+        "name": "Burgundy Evening Skirt with Belt",
+        "category": "Bottoms",
+        "subcategory": "Skirt",
+        "material": "Satin",
+        "features": ["Belted", "Evening Wear", "A-Line", "Midi Length"],
+        "color": ["Burgundy"],
+        "size": ["S", "M", "L"],
+        "price": 79.99,
+        "description": "Elegant burgundy satin skirt with a belted waist, perfect for evening events and formal occasions.",
+        "image_url": "https://eldana.sirv.com/Shared/bottoms-from-ilin88/skirt5.jpeg"
+    }
+]
